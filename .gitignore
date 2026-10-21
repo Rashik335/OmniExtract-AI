@@ -1,0 +1,12 @@
+# Окружение и секреты
+.env
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class

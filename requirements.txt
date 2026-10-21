@@ -1,0 +1,6 @@
+streamlit
+anthropic
+openai
+pypdf
+trafilatura
+youtube-transcript-api
